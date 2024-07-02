@@ -9,7 +9,6 @@ I like to be around those who help me gain new skills and gather more resources 
 __Skills:__
 Problem solving | Teamwork | Deep observer
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Java, C++ and Arduino
 - 🤔 I’m looking for help with GitHub usage, Python, Java, C++ and Arduino
 - 😄 Pronouns: He/Him
