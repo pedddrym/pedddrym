@@ -2,7 +2,7 @@
 My name is _Pedro Oliveira_. I come from Instituto Federal do Ceará (IFCE) - Federal Institute of Ceará, Brazil
 and I'm currently taking Mechatronics Engineering 🤖 🦾
 
-I got myself interested in Data Analysis 💻, Task Automation ⌛ and Machine Learning 🧠! 
+I got myself interested in Data Science 💻, Task Automation ⌛ and Machine Learning 🧠! 
 
 I like to be around those who help me gain new skills and gather more resources for my ongoing learning path! 😄
 
