@@ -12,7 +12,7 @@ Problem solving | Teamwork | Deep observer
 - 🌱 I’m currently learning Python, Java, C++ and Arduino
 - 🤔 I’m looking for help with GitHub usage, Python, Java, C++ and Arduino
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: People often call me by my nickname _Pedrinho_, which would mean Little Peter 😆
+- ⚡ Fun fact: People often call me by my nickname _Pedrinho_, which means Little Peter 😆
 ## 📬 How to reach me
 You can contact me using:
 - Instagram: https://www.instagram.com/pedrolivcl 📷
