@@ -7,9 +7,9 @@ I got myself interested in Data Science 💻, Task Automation ⌛ and Machine Le
 I like to be around those who help me gain new skills and gather more resources for my ongoing learning path! 😄
 
 __Skills:__
-Problem solving | Teamwork | Deep observer
+Problem solving | Teamwork | Deep observer | Python -> (**Pandas** for data manipulation, **Matplotlib** for data visualization, Scikit-Learn for machine learning) | Excel | PowerBI
 
-- 🌱 I’m currently learning Python, Java, C++ and Arduino
+- 🌱 I’m currently learning Python, C++ and Arduino
 - 🤔 I’m looking for help with GitHub usage, Python, Java, C++ and Arduino
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: People often call me by my nickname _Pedrinho_, which means Little Peter 😆
